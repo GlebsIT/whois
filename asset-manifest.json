@@ -1,28 +1,30 @@
 {
   "files": {
-    "main.css": "/whois/static/css/main.07d899d3.chunk.css",
-    "main.js": "/whois/static/js/main.50ae325c.chunk.js",
-    "main.js.map": "/whois/static/js/main.50ae325c.chunk.js.map",
+    "main.css": "/whois/static/css/main.9c9de54d.chunk.css",
+    "main.js": "/whois/static/js/main.a57e12b1.chunk.js",
+    "main.js.map": "/whois/static/js/main.a57e12b1.chunk.js.map",
     "runtime-main.js": "/whois/static/js/runtime-main.bcbe7b29.js",
     "runtime-main.js.map": "/whois/static/js/runtime-main.bcbe7b29.js.map",
     "static/css/2.86df01db.chunk.css": "/whois/static/css/2.86df01db.chunk.css",
-    "static/js/2.156f0740.chunk.js": "/whois/static/js/2.156f0740.chunk.js",
-    "static/js/2.156f0740.chunk.js.map": "/whois/static/js/2.156f0740.chunk.js.map",
+    "static/js/2.5852c2d7.chunk.js": "/whois/static/js/2.5852c2d7.chunk.js",
+    "static/js/2.5852c2d7.chunk.js.map": "/whois/static/js/2.5852c2d7.chunk.js.map",
     "index.html": "/whois/index.html",
-    "precache-manifest.96762aad548564909041619b306a3140.js": "/whois/precache-manifest.96762aad548564909041619b306a3140.js",
+    "precache-manifest.8c19397e5a0126f85cb07190148ed257.js": "/whois/precache-manifest.8c19397e5a0126f85cb07190148ed257.js",
     "service-worker.js": "/whois/service-worker.js",
     "static/css/2.86df01db.chunk.css.map": "/whois/static/css/2.86df01db.chunk.css.map",
-    "static/css/main.07d899d3.chunk.css.map": "/whois/static/css/main.07d899d3.chunk.css.map",
-    "static/js/2.156f0740.chunk.js.LICENSE.txt": "/whois/static/js/2.156f0740.chunk.js.LICENSE.txt",
+    "static/css/main.9c9de54d.chunk.css.map": "/whois/static/css/main.9c9de54d.chunk.css.map",
+    "static/js/2.5852c2d7.chunk.js.LICENSE.txt": "/whois/static/js/2.5852c2d7.chunk.js.LICENSE.txt",
     "static/media/false.png": "/whois/static/media/false.684294b8.png",
     "static/media/friends.png": "/whois/static/media/friends.3fb7273a.png",
-    "static/media/true.png": "/whois/static/media/true.1cad432a.png"
+    "static/media/persik.png": "/whois/static/media/persik.4e1ec840.png",
+    "static/media/true.png": "/whois/static/media/true.1cad432a.png",
+    "static/media/wait.gif": "/whois/static/media/wait.4da3e52f.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.bcbe7b29.js",
     "static/css/2.86df01db.chunk.css",
-    "static/js/2.156f0740.chunk.js",
-    "static/css/main.07d899d3.chunk.css",
-    "static/js/main.50ae325c.chunk.js"
+    "static/js/2.5852c2d7.chunk.js",
+    "static/css/main.9c9de54d.chunk.css",
+    "static/js/main.a57e12b1.chunk.js"
   ]
 }
