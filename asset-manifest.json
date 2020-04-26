@@ -1,30 +1,31 @@
 {
   "files": {
-    "main.css": "/whois/static/css/main.2feff03f.chunk.css",
-    "main.js": "/whois/static/js/main.84443186.chunk.js",
-    "main.js.map": "/whois/static/js/main.84443186.chunk.js.map",
+    "main.css": "/whois/static/css/main.bcbe5463.chunk.css",
+    "main.js": "/whois/static/js/main.e374f69d.chunk.js",
+    "main.js.map": "/whois/static/js/main.e374f69d.chunk.js.map",
     "runtime-main.js": "/whois/static/js/runtime-main.bcbe7b29.js",
     "runtime-main.js.map": "/whois/static/js/runtime-main.bcbe7b29.js.map",
     "static/css/2.86df01db.chunk.css": "/whois/static/css/2.86df01db.chunk.css",
-    "static/js/2.fafec9bf.chunk.js": "/whois/static/js/2.fafec9bf.chunk.js",
-    "static/js/2.fafec9bf.chunk.js.map": "/whois/static/js/2.fafec9bf.chunk.js.map",
+    "static/js/2.0e46de33.chunk.js": "/whois/static/js/2.0e46de33.chunk.js",
+    "static/js/2.0e46de33.chunk.js.map": "/whois/static/js/2.0e46de33.chunk.js.map",
     "index.html": "/whois/index.html",
-    "precache-manifest.4d71fcd9a44d9ee86119cf140b19d7a3.js": "/whois/precache-manifest.4d71fcd9a44d9ee86119cf140b19d7a3.js",
+    "precache-manifest.519cdbeeb6d56fc37200fd09a28c4403.js": "/whois/precache-manifest.519cdbeeb6d56fc37200fd09a28c4403.js",
     "service-worker.js": "/whois/service-worker.js",
     "static/css/2.86df01db.chunk.css.map": "/whois/static/css/2.86df01db.chunk.css.map",
-    "static/css/main.2feff03f.chunk.css.map": "/whois/static/css/main.2feff03f.chunk.css.map",
-    "static/js/2.fafec9bf.chunk.js.LICENSE.txt": "/whois/static/js/2.fafec9bf.chunk.js.LICENSE.txt",
+    "static/css/main.bcbe5463.chunk.css.map": "/whois/static/css/main.bcbe5463.chunk.css.map",
+    "static/js/2.0e46de33.chunk.js.LICENSE.txt": "/whois/static/js/2.0e46de33.chunk.js.LICENSE.txt",
     "static/media/false.png": "/whois/static/media/false.684294b8.png",
     "static/media/friends.png": "/whois/static/media/friends.3fb7273a.png",
-    "static/media/persik.png": "/whois/static/media/persik.4e1ec840.png",
+    "static/media/party.png": "/whois/static/media/party.b9584581.png",
+    "static/media/Games.css": "/whois/static/media/sensei.253b9d01.otf",
     "static/media/true.png": "/whois/static/media/true.1cad432a.png",
     "static/media/wait.gif": "/whois/static/media/wait.4da3e52f.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.bcbe7b29.js",
     "static/css/2.86df01db.chunk.css",
-    "static/js/2.fafec9bf.chunk.js",
-    "static/css/main.2feff03f.chunk.css",
-    "static/js/main.84443186.chunk.js"
+    "static/js/2.0e46de33.chunk.js",
+    "static/css/main.bcbe5463.chunk.css",
+    "static/js/main.e374f69d.chunk.js"
   ]
 }
