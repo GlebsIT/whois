@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "acb6b2e77471e06a80005e424d53ec3b",
+    "revision": "f446bbe1e40b3b0d736abf931e33eaa2",
     "url": "/whois/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/whois/static/css/2.86df01db.chunk.css"
   },
   {
-    "revision": "222d8eaa5761a94c6bba",
-    "url": "/whois/static/css/main.94972669.chunk.css"
+    "revision": "074c48510c37b4b63204",
+    "url": "/whois/static/css/main.3912d96a.chunk.css"
   },
   {
     "revision": "a4ed48fa8ca2c060eea9",
@@ -20,12 +20,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/whois/static/js/2.66e5bf31.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "222d8eaa5761a94c6bba",
-    "url": "/whois/static/js/main.13927e2a.chunk.js"
+    "revision": "074c48510c37b4b63204",
+    "url": "/whois/static/js/main.995530ae.chunk.js"
   },
   {
     "revision": "4f479994a0aabc076440",
     "url": "/whois/static/js/runtime-main.bcbe7b29.js"
+  },
+  {
+    "revision": "2d0bdc8df10dee036ca3bedf6f3647c6",
+    "url": "/whois/static/media/OpenSans-Light.2d0bdc8d.ttf"
+  },
+  {
+    "revision": "3ed9575dcc488c3e3a5bd66620bdf5a4",
+    "url": "/whois/static/media/OpenSans-Regular.3ed9575d.ttf"
   },
   {
     "revision": "684294b88aa32a15271c7832ffa761f9",
